@@ -1,0 +1,14 @@
+# Site settings
+title: Tecla5 Blog
+email: cabrera.javier@gmail.com
+#It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: > # this means to ignore newlines until "baseurl:"
+  Awesome specialist developers group 
+  for creating new mobile applications and web sites for cover your necessities
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tecla5.com" # the base hostname & protocol for your site
+twitter_username: jcc2303
+github_username:  tecla5
+
+# Build settings
+markdown: kramdown

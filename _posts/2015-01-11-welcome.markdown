@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to Tecla5!"
+date:   2015-01-11 13:53:58
+# categories: jekyll update
+categories: welcome
+---
+Welcome to the blog, first post
+
